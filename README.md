@@ -13,6 +13,7 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 
+# Defining myself
 class Fadhlan():
     def __init__(self):
         self.name     = 'Muhammad Fadhlan'
@@ -23,6 +24,12 @@ class Fadhlan():
             'SQL',
             'MATLAB'
         ]
+    
+    def say_hi(self):
+        print('Hello there!')
+
+me = Fadhlan()
+me.say_hi()
 ```
 
-### 📝 Check out my complete CV at <a href="s.id/CV-Fadhlan">Notion</a>!
+### 📝 Check out my complete CV at [Notion](s.id/CV-Fadhlan)!
