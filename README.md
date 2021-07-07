@@ -34,4 +34,4 @@ me.say_hi()
 
 ### 📝 Check out my complete CV!
 
-My CV is hosted at [Notion](s.id/CV-Fadhlan)!
+My CV is hosted at Notion: https://s.id/CV-Fadhlan !
