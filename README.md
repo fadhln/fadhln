@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there, my name is Fadhlan 👋
 
-<!--
-**fadhln/fadhln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: fadhln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadhln) [![Whatsapp: 082247109826](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6282247109826)
 
-Here are some ideas to get you started:
+> I am a final-year student at <a href="https://dcse.fmipa.ugm.ac.id/site/id/landing-page/">Universitas Gadjah Mada</a>, studying Electronics and Instrumentation. I have a huge passion for smart systems and artificial intelligence. Has years of leadership experiences by participating in organizations and volunteer activities. Hard-working achiever, persistent learner, and empathetic team player.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Who am I?
+
+```python
+# Importing my favorite libs
+import cv2 as cv
+import numpy as np
+import pandas as pd
+import seaborn as sns
+
+class Fadhlan():
+    def __init__(self):
+        self.name     = 'Muhammad Fadhlan'
+        self.location = 'Yogyakarta, Indonesia'
+        self.birthday = '26/07/2000'
+        self.skills   = [
+            'python',
+            'SQL',
+            'MATLAB'
+        ]
+```
+
+### 📝 Check out my complete CV at <a href="s.id/CV-Fadhlan">Notion</a>!
