@@ -32,4 +32,6 @@ me = Fadhlan()
 me.say_hi()
 ```
 
-### 📝 Check out my complete CV at [Notion](s.id/CV-Fadhlan)!
+### 📝 Check out my complete CV!
+
+My CV is hosted at [Notion](s.id/CV-Fadhlan)!
