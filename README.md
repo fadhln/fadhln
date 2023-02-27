@@ -38,6 +38,6 @@ const me: Fadhlan = new Fadhlan();
 me.say_hi();
 ```
 
-### 📝 Check out my complete CV!
+### 📝 Check out my website!
 
-My CV is hosted at Notion: https://s.id/CV-Fadhlan !
+My website is: fadhln.my.id !
